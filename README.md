@@ -1,1 +1,1 @@
-# Implementation-of-s-Gaussian-Mixture-Model
+# Implementation of a Gaussian Mixture Model
